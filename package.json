@@ -1,0 +1,11 @@
+{
+  "name": "notion-ticktick-bridge",
+  "version": "1.0.0",
+  "description": "Integrate your TickTick tasks with a Notion database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vish M",
+  "license": "MIT"
+}
